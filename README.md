@@ -69,7 +69,7 @@ The final regression model achieved an R-squared value of approximately 59.5%, i
 * year built
 * view quality
 
-## Requirements
+## Requirements: ⚙️
 
 To run the analysis, you'll need the following:
 
@@ -78,7 +78,7 @@ To run the analysis, you'll need the following:
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
 
 
-## Authors: fountain_pen:
+## Authors: 🖋️
 * [Fredrick Kyeki](https://github.com/FREDRICKKYEKI)
 * [Ivy Mwanza](https://github.com/mwanza00)
 * [Dennis Kobia](https://github.com/cpakobia)
@@ -88,7 +88,7 @@ To run the analysis, you'll need the following:
 Feel free to reach out with any questions or feedback!
 
 
-## Repository Structure
+## Repository Structure: 📁
 ```
 ├── README.md <- The top-level README for reviewers of this project
 ├── student.ipynb <- Narrative documentation of analysis in Jupyter notebook
